@@ -28,6 +28,6 @@ View PDF:
     cd satellite6-performance-tuning/docs/_build/latex 
     evince <file.pdf>
 
-Cleanup workdir:
+Cleanup workdir- 
 
     make -C docs/ clean
